@@ -1,0 +1,6 @@
+Repositorio
+Es la carpeta del proyecto pero con superpoderes. Ahí vive todo el código y además el historial completo de cada cambio que se ha hecho desde el principio.
+Commit
+Es como sacarle una foto al proyecto en un momento específico. Cada vez que hago cambios y quiero guardarlos de verdad, hago un commit con un mensaje que describe qué modifiqué y por qué.
+Push
+Es subir esos commits al repositorio remoto, o sea, compartirlos con el resto del equipo. Hasta que no hago push, los cambios solo existen en mi máquina.

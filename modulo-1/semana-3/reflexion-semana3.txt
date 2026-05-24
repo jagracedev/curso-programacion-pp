@@ -1,0 +1,5 @@
+Para mí, usar Git es básicamente lo que me da paz mental mientras aprendo a programar. Al principio me parecía un paso extra y un dolor de cabeza con la terminal, pero la verdad es que te salva la vida.
+
+Es como tener una máquina del tiempo para el código. Si me pongo a inventar algo, meto la pata y se rompe todo (cosa que me pasa seguido), no entro en pánico ni dependo de apretar Ctrl + Z mil veces; simplemente vuelvo al punto exacto donde todo funcionaba y listo.
+
+Además, me quitó ese miedo horrible de borrar archivos o de terminar con carpetas caóticas llamadas "proyecto-final-este-sí-bueno". Trabajo tranquilo porque sé que si quiero experimentar, abro una rama, juego un rato y mi código principal se queda intacto. Es mi red de seguridad.
