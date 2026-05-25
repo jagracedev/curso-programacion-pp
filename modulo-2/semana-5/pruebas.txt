@@ -1,0 +1,11 @@
+Prueba de rutas del servidor
+Ruta 1 - http://localhost:3000
+Al ingresar esta direccion en el navegador, el servidor responde con el texto
+"Servidor activo". Es la ruta raiz o principal del servidor.
+Ruta 2 - http://localhost:3000/saludo
+El servidor responde con el mensaje "Hola comunidad". Esta ruta esta
+configurada especificamente para devolver un saludo general.
+Ruta 3 - http://localhost:3000/mensaje/juan
+El servidor toma el nombre "juan" de la URL como parametro dinamico
+y responde con "Hola juan". Si se cambia "juan" por otro nombre,
+el servidor lo saluda a el. Esto demuestra el uso de parametros
