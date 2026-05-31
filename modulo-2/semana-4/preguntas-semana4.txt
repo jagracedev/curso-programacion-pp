@@ -6,3 +6,4 @@ Pregunta 3: Respuesta B
 Express es un framework para construir servidores y APIs en Node.js.
 Pregunta 4: Respuesta B
 Una ruta define como responde el servidor cuando un usuario accede a una URL
+ 
