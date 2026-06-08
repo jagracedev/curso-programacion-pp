@@ -1,5 +1,0 @@
-Buenas practicas de seguridad
-
- "1. Proteger contraseñas con gestores seguros" > buenas-practicas.txt
- "2. No compartir credenciales con otras personas" >> buenas-practicas.txt
- "3. Mantener el software del sistema actualizado" >> buenas-practicas.txt
