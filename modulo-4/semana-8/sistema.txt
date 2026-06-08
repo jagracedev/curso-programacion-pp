@@ -1,0 +1,10 @@
+uname -a: muestra información del sistema operativo, nombre del kernel,
+versión, arquitectura y fecha de compilación. Es útil para saber qué
+versión de Linux está corriendo el servidor.
+
+whoami: muestra el nombre del usuario actualmente conectado. Es útil
+para confirmar con qué permisos se están ejecutando los comandos.
+
+Conocer esta información es importante al administrar un servidor porque
+permite verificar la versión del sistema para aplicar parches de seguridad,
+y saber si se está operando como usuario normal o como administrador (root).
