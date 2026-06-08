@@ -1,0 +1,4 @@
+Cuando envío un POST a /reportes con un JSON, el servidor guarda el reporte en
+el array en memoria y responde con el reporte creado. Al hacer GET /reportes,
+el servidor devuelve todos los reportes registrados en forma de lista JSON.
+Si reinicio el servidor, la lista se borra porque los datos solo están en memoria.
