@@ -1,0 +1,21 @@
+Reflexión - Semana 9
+=====================
+
+Las plataformas tecnológicas que utilizan las comunidades deben funcionar
+de manera estable y segura porque representan herramientas de comunicación,
+organización y acceso a servicios esenciales para las personas. Cuando un
+servidor falla o es vulnerable, las comunidades pierden acceso a información
+importante y se interrumpen procesos que dependen de esa tecnología.
+
+La estabilidad garantiza que los usuarios puedan confiar en la plataforma
+en cualquier momento del día, sin interrupciones inesperadas. Esto es
+especialmente relevante en contextos comunitarios donde no siempre existe
+personal técnico disponible para resolver problemas de manera inmediata.
+
+La seguridad protege los datos de los miembros de la comunidad. Una plataforma
+con vulnerabilidades puede exponer información personal o permitir accesos no
+autorizados, lo que genera desconfianza y puede causar daños reales a las
+personas. Mantener logs, monitorear errores y aplicar buenas prácticas de
+desarrollo son acciones concretas que contribuyen a construir sistemas dignos
+de la confianza de quienes los usan. Aprender a construir servidores responsables
+es, por tanto, una forma de responsabilidad social y comunitaria.

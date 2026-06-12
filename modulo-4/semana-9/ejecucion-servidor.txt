@@ -1,0 +1,28 @@
+Ejecución del servidor - Semana 9
+==================================
+
+1. Qué ocurre cuando ejecutas: node server.js
+   Al ejecutar el comando, Node.js carga el archivo server.js e inicia
+   el proceso del servidor. Express configura las rutas definidas y el
+   servidor queda activo en memoria, listo para recibir solicitudes HTTP.
+   El proceso permanece corriendo en la terminal hasta que se detiene
+   manualmente con Ctrl+C.
+
+2. Mensaje que aparece en la terminal:
+   Servidor ejecutándose en puerto 3000
+
+   lo que indica que el servidor inició correctamente y está escuchando
+   solicitudes en el puerto 3000 de la máquina local.
+
+3. Qué sucede cuando visitas la ruta /estado:
+   El navegador realiza una solicitud GET a http://localhost:3000/estado.
+   Express intercepta esa ruta y ejecuta su función correspondiente, que
+   responde con un objeto JSON. El navegador muestra la siguiente respuesta:
+
+   {
+     "estado": "Servidor funcionando",
+     "servicio": "API comunitaria"
+   }
+
+   Esto confirma que el servidor está activo y respondiendo correctamente
+   a las solicitudes de la API.

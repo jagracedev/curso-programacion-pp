@@ -1,0 +1,30 @@
+Componentes de un entorno servidor - Semana 9
+==============================================
+
+1. Sistema operativo
+   Es la base sobre la que funciona todo el entorno del servidor. Se encarga
+   de gestionar los recursos del hardware (memoria, CPU, red) y proporciona
+   el entorno donde se ejecutan los programas. Sin él, ningún otro componente
+   podría funcionar.
+
+2. Node.js
+   Es el entorno de ejecución que permite correr código JavaScript fuera del
+   navegador, directamente en el servidor. Proporciona las herramientas para
+   manejar solicitudes HTTP, leer archivos y conectarse a bases de datos.
+   Es el motor que da vida a nuestra aplicación server.js.
+
+3. Aplicación server.js
+   Es el código principal de la aplicación. Define las rutas disponibles, la
+   lógica de negocio y las respuestas que el servidor enviará a los usuarios.
+   Es el núcleo de la API comunitaria que desarrollamos en esta semana.
+
+4. Puerto
+   Es el canal numérico por el que el servidor escucha las solicitudes entrantes.
+   En este proyecto usamos el puerto 3000. Permite que varios servicios corran
+   en la misma máquina sin interferir entre sí, cada uno en su propio puerto.
+
+5. Logs
+   Son registros de texto que documentan eventos, errores y actividad del
+   servidor en tiempo real. Permiten identificar problemas, monitorear el
+   comportamiento del sistema y auditar quién hizo qué en la aplicación.
+   Son esenciales para mantener un servidor estable y seguro.
