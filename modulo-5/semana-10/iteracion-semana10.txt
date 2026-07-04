@@ -1,0 +1,10 @@
+1. ¿Qué 2 tareas del backlog harías primero?
+De una me iría por hacer el formulario web para que la gente reporte los problemas y configuraría la alerta automática que le llega al coordinador a Telegram.
+
+2. ¿Por qué son las más importantes?
+Porque son el corazón del proyecto. Si los ciudadanos no pueden reportar, no tenemos nada que solucionar; y si el coordinador no recibe la alerta al instante, la ayuda no llega a tiempo. Con eso listo, ya el sistema empieza a dar resultados reales.
+
+3. Mi definición de "terminado":
+- Que el formulario funcione bien a la primera y no tire errores en la consola.
+- Que el mensaje llegue al grupo de Telegram de prueba sin quedarse pegado.
+- Que el código esté limpio, sin contraseñas públicas y con su commit guardado en Git.

@@ -1,0 +1,12 @@
+1. ¿Qué evento activa el flujo?
+El flujo arranca con un nodo Webhook en n8n, que reacciona inmediatamente cada vez que un ciudadano envía un nuevo formulario con un reporte.
+
+2. ¿Qué mensaje se enviaría a Telegram?
+Se enviaría una alerta al grupo que diga algo como: 
+"Atencion: Se registro un nuevo reporte comunitario. 
+Sector: [Sector/Barrio] 
+Problema: [Categoria del daño] 
+Por favor, entren al sistema central para revisar los detalles."
+
+3. ¿Qué información no debería enviarse por seguridad?
+Por pura seguridad de la comunidad, jamas se deben mandar datos privados en el mensaje de Telegram. Nada de nombres completos, numeros de cedula, telefonos personales, direcciones exactas de casas o contraseñas. Solo informacion general del daño. 

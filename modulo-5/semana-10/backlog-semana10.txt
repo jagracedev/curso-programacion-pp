@@ -1,0 +1,7 @@
+1. Como ciudadano, quiero reportar un problema comunitario mediante un formulario web para dejar evidencia del caso. (Prioridad: Alta)
+
+2. Como coordinador, quiero recibir una alerta en Telegram para revisar un nuevo reporte rápido. (Prioridad: Media)
+
+3. Como miembro de la comunidad, quiero consultar el estado de los reportes para hacerles seguimiento. (Prioridad: Media)
+
+4. Como administrador, quiero generar un resumen mensual de los casos resueltos para rendir cuentas a la comunidad. (Prioridad: Baja)
