@@ -1,0 +1,19 @@
+Automatización - Petición en 3 Clics
+
+Evento: se registra un nuevo apoyo a una causa (o se alcanza un número determinado
+de apoyos, por ejemplo cada 50 apoyos nuevos).
+
+Mensaje: "¡La causa 'Mejorar el alumbrado público del barrio' acaba de alcanzar
+50 apoyos! Sigue sumando voces para lograr el cambio."
+
+Información que no debe enviarse por seguridad:
+- Cédulas o números de identificación
+- Números de teléfono
+- Direcciones físicas exactas
+- Correos electrónicos personales
+- Comentarios u opiniones sensibles asociadas a un ciudadano
+- Cualquier dato que permita identificar individualmente a una persona sin su consentimiento
+
+La automatización solo debe comunicar información agregada y de interés público
+(nombre de la causa, número total de apoyos, estado de la petición), nunca datos
+personales de los ciudadanos que participan.

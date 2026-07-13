@@ -1,0 +1,9 @@
+Flujo del sistema "Petición en 3 Clics"
+
+1. Un ciudadano ingresa a la plataforma y crea una nueva causa, indicando título, descripción y fecha.
+2. La causa queda registrada en la base de datos del sistema con un identificador único.
+3. Otros ciudadanos visualizan la causa publicada y deciden apoyarla registrando su nombre.
+4. El sistema cuenta automáticamente el número total de apoyos recibidos por la causa.
+5. Cuando la causa alcanza un número relevante de apoyos, el sistema genera un documento PDF con la petición formal.
+6. El documento PDF generado puede ser descargado, compartido o presentado ante la entidad correspondiente.
+7. El sistema envía una notificación automática (por ejemplo vía Telegram) informando que la petición fue generada.

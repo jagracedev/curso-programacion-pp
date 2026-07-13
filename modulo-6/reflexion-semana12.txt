@@ -1,0 +1,15 @@
+Reflexión - Semana 12
+
+Durante el curso aprendí que la tecnología puede convertirse en un puente real entre
+la ciudadanía y la solución de problemas comunitarios, siempre que se diseñe de forma
+sencilla y accesible. Sistemas como "Petición en 3 Clics" muestran que no se necesita
+una plataforma compleja para generar impacto: basta con permitir que las personas
+registren una causa, se organicen alrededor de ella y visualicen el apoyo colectivo
+de forma clara. También comprendí la importancia de proteger los datos personales,
+recolectando solo la información estrictamente necesaria para no exponer a los
+ciudadanos a riesgos innecesarios. Las automatizaciones con herramientas como n8n o
+Telegram me mostraron cómo mantener informada a una comunidad en tiempo real sin
+intervención manual constante, fortaleciendo la transparencia del proceso. En
+conjunto, este curso me dejó claro que la tecnología, bien aplicada, puede fortalecer
+la participación ciudadana, facilitar la organización comunitaria y dar voz a causas
+que antes quedaban invisibilizadas por falta de canales adecuados.
